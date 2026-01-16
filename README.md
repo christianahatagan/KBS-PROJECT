@@ -40,8 +40,8 @@ project/
 
 Deoarece setul de date CBIS-DDSM este prea mare pentru GitHub, acesta trebuie descărcat separat.
 
-1.  **Descărcați arhiva cu datele (Imagini + CSV)** de aici:
-    👉 [LINK CĂTRE GOOGLE DRIVE-UL TĂU AICI]
+1.  **Descărcați arhiva cu datele (Imagini + CSV)** de aici si modelele:
+    https://drive.google.com/file/d/1JDBy4OOkg-_jsQ7ATKcjVBzug0JpG4rC/view?usp=sharing
 
 2.  Dezarhivați conținutul în folderul `project`, astfel încât să aveți structura:
     - `project/jpeg/...`
